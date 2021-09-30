@@ -6,7 +6,7 @@
 
 # 使用
 
-- 点击 [Use this template](https://github.com/Editi0/SYSU-HealthReport-Template/generate) 创建一个新的仓库。
+- 点击 [Use this template](https://github.com/Editi0/SYSU-HealthReport-Template/generate) 创建一个新的仓库（同时点个 Star）。
 
 - 注册[第三方在线识别平台](http://fast.95man.com)，每日免费额度100，获取 Token。
 
