@@ -26,17 +26,15 @@
 
 ## Telegram Bot 推送
 
-如果希望使用 Telegram Bot 推送运行结果，将你的 Bot 的 Token 填入 `TG_BOT_TOKEN`，将你与该 Bot 的 chat_id 填入 `TG_CHATID` 中，并在 GitHub Actions 配置中传入（取消注释）。
+如果希望使用 Telegram Bot 推送运行结果，将你的 Bot 的 Token 填入 `TG_BOT_TOKEN`，将你与该 Bot 的 chat_id 填入 `TG_CHATID` 中。
 
 具体操作可以参考[官方文档](https://core.telegram.org/bots/api#sendmessage)，其中 `chat_id` 的可以使用 `getUpdates` 方法或者问候 [@userinfobot](https://t.me/userinfobot) 获得。
 
 使用该通知方式假定你已知道如何设置，其他问题请 Google，否则请放弃。
 
-## 微信推送
+## Server 酱推送
 
-可以加入**中山大学企业微信**，填报成功后会自动推送提醒。
-
-如果希望使用 server 酱推送运行结果，将你的 wxsend_key 填入 `WXSEND_KEY` 中，并在 GitHub Actions 配置中传入（取消注释）,具体获取方式可前往[官网](https://sct.ftqq.com/)查看。
+如果希望使用 server 酱推送运行结果，将你的 wxsend_key 填入 `TG_BOT_TOKEN` 中，具体获取方式可前往[官网](https://sct.ftqq.com/)查看。
 
 # TODO
 
