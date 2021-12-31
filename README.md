@@ -6,7 +6,7 @@
 
 # 使用
 
-- 点击 [Use this template](https://github.com/Editi0/SYSU-HealthReport-Template/generate) 创建一个新的仓库（同时点个 Star）。
+- 点击 [Use this template](https://github.com/Editst/SYSU-HealthReport-Template/generate) 创建一个新的仓库（同时点个 Star）。
 
 - 注册[第三方在线识别平台](http://fast.95man.com)，每日免费额度100，获取 Token。
 
@@ -43,4 +43,3 @@
 # 免责声明
 
 此脚本仅供学习交流，禁止商业使用，使用软件过程中，发生意外造成的损失由使用者承担。如遇身体不适、或居住地址发生变化，请及时更新健康申报信息。
-
