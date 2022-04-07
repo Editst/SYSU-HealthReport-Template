@@ -8,13 +8,15 @@
 
 - 点击 [Use this template](https://github.com/Editst/SYSU-HealthReport-Template/generate) 创建一个新的仓库（同时点个 Star）。
 
-- 注册[第三方在线识别平台](http://fast.95man.com)，每日免费额度100，获取 Token。
+- ~~注册[第三方在线识别平台](http://fast.95man.com)，每日免费额度100，获取 Token。~~
+
+- 换成了自己手糊的[验证码识别 api](https://github.com/Editst/CAS-captcha-api)，为方便起见取消了 token 验证，请勿滥用！
 
 - 在新仓库中 Settings-Secrets 填写下列信息，注意需要大写，可参考[这里](https://docs.github.com/en/actions/security-guides/encrypted-secrets)。
 
-| NETID | PASSWORD | OCR_TOKEN |
-| :-----: | :--------: | :---------: |
-| NETID |   密码    | 在线识别平台的 TOKEN |
+| NETID | PASSWORD |
+| :-----: | :--------: |
+| NETID |   密码    |
 
 # 定时运行
 
